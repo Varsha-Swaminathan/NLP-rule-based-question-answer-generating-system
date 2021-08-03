@@ -1,0 +1,14 @@
+Q:Who  is taking a train to Chennai ?
+A: Varsha
+Q:what is  Varsha taking  to Chennai ?
+A:a train 
+Q:what is  Varsha taking to do a train ?
+A: to Chennai
+Q:Who  admired him ?
+A:you
+Q:whom did you admire   ?
+A:him
+Q:Who  will buy a book ?
+A: He
+Q:what will  He buy  ?
+A:a book
