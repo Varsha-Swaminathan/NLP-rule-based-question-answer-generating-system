@@ -1,2 +1,2 @@
-# Design-and-Development-of-Sclera-Based-Biometric-System
-Using OpenCV, segmentation, feature extraction and classification techniques to identify individual based on sclera characteristics. 
+# NLP-rule-based-question-answer-generating-system
+Question answer generation system using python libraries such as NLTK and Spacy, speech to text conversion and tkinter GUI.
